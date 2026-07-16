@@ -1,4 +1,5 @@
 MERN Task 1 – Project Setup & API Integration
+
 Overview
 This project is a basic MERN Stack application developed as part of Task ID: B1-MERN-T01. The objective was to establish communication between a React frontend and an Express backend by creating REST APIs and consuming them using Axios.
 
